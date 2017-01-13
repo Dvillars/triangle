@@ -3,7 +3,7 @@
 }
 
 .btn {
-  background-color: #3065ba;
+  background-color: #30aa33;
   color: white;
   text-shadow: -1px 1px white;
   font-size: 25px;
@@ -15,4 +15,15 @@ input {
 
 .answer {
   font-size: 25px;
+}
+
+.jumbotron {
+  background-color: #30aa33;
+  color: white;
+  text-shadow: -1px 1px white;
+}
+
+body {
+  color: #30aa33;
+  background-color: lightgrey;
 }
