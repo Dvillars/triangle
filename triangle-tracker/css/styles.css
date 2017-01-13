@@ -1,0 +1,18 @@
+.equal, .iso, .scl, .not {
+  display: none;
+}
+
+.btn {
+  background-color: #3065ba;
+  color: white;
+  text-shadow: -1px 1px white;
+  font-size: 25px;
+}
+
+input {
+  font-size: 20px;
+}
+
+.answer {
+  font-size: 25px;
+}
